@@ -1,4 +1,4 @@
-# Auto Updater
+# Auto Updater For BE
 
 A small jar-mod for an auto updating Mindustry. <br>
 *Works on desktop and server platforms!*
